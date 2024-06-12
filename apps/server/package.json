@@ -54,7 +54,7 @@
     "google-auth-library": "^9.4.1",
     "jsonwebtoken": "^9.0.2",
     "node-mailjet": "^6.0.5",
-    "nodemailer": "^6.9.7",
+    "nodemailer": "^6.9.9",
     "openai": "^4.24.6",
     "passport-jwt": "^4.0.1",
     "pg": "^8.11.3",
